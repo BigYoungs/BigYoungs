@@ -14,10 +14,6 @@
 
 欢迎各位看看我Github首页上展示的工具项目，可能对你有用呢~~
 
-# 请我喝咖啡吧
-
-在[**爱发电**](https://afdian.net/a/bigyoung)赞助BigYoung，给他充电！！！
-
 # 我的工具上架平台
 
-来[面包多](https://mbd.pub/o/bigyoungs/work)获取你需要的工具吧！！！
+在[**爱发电**](https://afdian.net/a/bigyoung)赞助BigYoung，给他充电！！！
