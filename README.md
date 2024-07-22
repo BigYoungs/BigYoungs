@@ -16,4 +16,4 @@
 
 # 我的工具上架平台
 
-在[**爱发电**](https://afdian.net/a/bigyoung)赞助BigYoung，给他充电！！！
+在[**爱发电**](https://ifdian.net/a/bigyoung)赞助BigYoung，给他充电！！！
